@@ -1,0 +1,9 @@
+DECLARATION OF foo 
+	CONST moo = 2, 
+		darp = 4;
+	VAR woo : moo,
+		derp : darp:
+	TYPE feels : {woo, derp}
+	PROCEDURE magic
+	FUNCTION notmagic(hello; goodbye)
+DECLARATION END

@@ -1,0 +1,7 @@
+IMPLEMENTATION OF new
+	PROCEDURE proc; CONST constanto = 3, constanta = 4; BEGIN supervariable := constanto * constanto - constanta / constanta END;
+	CONST term = 2;
+	BEGIN
+		test := 5 * 4 + help / 2
+	END
+.

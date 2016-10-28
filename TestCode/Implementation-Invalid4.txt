@@ -1,0 +1,37 @@
+IMPLEMENTATION OF something
+	CONST somethingelse = 2;
+	BEGIN
+		BEGIN
+			BEGIN
+				BEGIN
+					BEGIN
+						BEGIN
+							BEGIN
+								BEGIN
+									BEGIN
+										FOR EACH thing IN somethingelse DO
+											BEGIN
+												IF thing + anotherthing + somethingnew THEN
+													BEGIN
+														DO
+															BEGIN
+																WHILE a + b DO
+																	BEGIN
+																		CALL fish
+																	END
+																END WHILE
+															END
+														END DO
+													END
+												END IF
+											END
+										END FOR
+									END
+								END
+							END
+					END
+				END
+			END
+		END
+	END
+.
